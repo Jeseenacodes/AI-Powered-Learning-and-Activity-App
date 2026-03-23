@@ -91,7 +91,7 @@ This project demonstrates how **AI-assisted development tools can quickly transf
 
 ## 📷 Demo
 
-🔗 **Live App:** [https://eid-stories-for-kids.lovable.app]
+🔗 **Live App:** [https://little-noories.lovable.app]
 
 📸 **Demo Preview**
 
